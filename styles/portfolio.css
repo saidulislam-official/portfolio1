@@ -88,3 +88,26 @@ nav li a {
     height: 676px;
 
 }
+/* button  customize*/
+.btn-download {
+    background-color: #FD6E0A;
+    width: 200px;
+    height: 64px;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    border-radius: 5px;
+    border-style: none;
+}
+
+.btn-contact {
+    background-color: white;
+    width: 160px;
+    height: 64px;
+    font-size: 20px;
+    font-weight: 700;
+    color:  #FD6E0A;
+    border-radius: 5px;
+    border: 1px solid #FD6E0A;
+    margin-left: 30px;
+}
