@@ -179,3 +179,36 @@ main section{
     font-size: 20px;
     font-weight: bold;
 }
+/* resume container */
+
+.resume-container{
+    display: flex;
+    margin-top: 110px;
+}
+.resume-column-title{
+    font-size: 30px;
+    font-weight: 800;
+}
+.experience-title{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0;
+}
+.experience-sub-title{
+    font-size: 20px;
+    font-weight: semi-bold;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.experience-title{
+    margin-top: 30px;
+}
+
+.resume hr{
+    width: 558px;
+    color: rgba(209, 209, 209, 1);
+    margin: 30px 0;
+}
+.resume-btn{
+    margin-top: 50px;
+}
