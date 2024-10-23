@@ -204,11 +204,37 @@ main section{
     margin-top: 30px;
 }
 
+footer{
+    height: 780px;
+    display: flex;
+}
 .resume hr{
-    width: 558px;
+    width: 530px;
     color: rgba(209, 209, 209, 1);
     margin: 30px 0;
 }
 .resume-btn{
     margin-top: 50px;
+}
+.footer-column{
+    margin: 130px auto;
+    width: auto;
+
+}
+
+.social-sites{
+    display: flex;
+    gap: 24px;
+}
+.footer-contact-description{
+    width: 562px;
+}
+.user-form input[type="text"], .user-form input[type="email"], .user-form textarea{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid white;
+    box-sizing: border-box;
+    border-radius: 5px; 
 }
