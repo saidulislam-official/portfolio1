@@ -7,6 +7,9 @@
 }
 
 /* shared styles */
+.secondary-bg{
+    background-color: #FFF8F3;
+}
 .text-primary{
     color: #FD6E0A;
     
